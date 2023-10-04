@@ -6,3 +6,4 @@ print(23*2.3)
 
 end = timer()
 print(end - start)
+reboot
